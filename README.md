@@ -3,4 +3,5 @@ I live in Erbil, Iraq
 I am Kurdish
 I'm currently studying Architecture (2022 - 2027)
 I specialize in parametric design and automation
-Currently exploring Python
+I've learned Python and SQlite
+I also do alot of vibe coding
